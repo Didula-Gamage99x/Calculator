@@ -1,6 +1,6 @@
 # Python Calculator
 
-A simple command-line calculator built with Python. It allows users to perform basic arithmetic operations through an interactive menu.
+A simple command line calculator built with Python. It allows users to perform basic arithmetic operations through an interactive menu.
 
 ## Features
 
@@ -9,7 +9,7 @@ A simple command-line calculator built with Python. It allows users to perform b
 * Multiplication
 * Division
 * Division by zero handling
-* Interactive command-line interface
+* Interactive command line interface
 
 ## Technologies Used
 
